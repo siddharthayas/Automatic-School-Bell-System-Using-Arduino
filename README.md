@@ -4,5 +4,5 @@ This project automates the school bell system using an Arduino-based setup. The 
 
 
 ## Circuit Diagram:
-![Circuit Diagram](link-to-your-image)  
-*(Add the circuit diagram image link here.)*
+![Circuit Diagram](https://github.com/siddharthayas/Automatic-School-Bell-System-Using-Arduino/blob/412943bf63ea9c4b140c462b47eb701317e5b90a/circuit-diagram.png)  
+
